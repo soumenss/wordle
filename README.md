@@ -1,0 +1,2 @@
+# wordle
+ Wordle word suggestor
