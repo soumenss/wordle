@@ -3,7 +3,7 @@
 from math import log as lg
 from tqdm import tqdm
 
-
+doneUpto = 'repay'
 
 
 # returns the smaller list which are the potential answer according to green, yel, blue
@@ -247,6 +247,8 @@ puzzles = [word[:-1] for word in lines]
 # puzzles = ['shirt', 'score', 'party', 'touch', 'south', 'extra', 'grade', 'whole', 'sheet', 'knoll']
 # puzzles = puzzles[5:300]
 # puzzles = ['knoll', 'shirt', 'india']
+doneUptoIndex = puzzles.index(doneUpto)
+puzzles = puzzles[doneUptoIndex+1:]
 
 
 
