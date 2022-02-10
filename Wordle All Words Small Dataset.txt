@@ -1230,3 +1230,7 @@ boxer	tares	blind	wooer	buyer	boxer	5	4.429319371727749
 jumbo	tares	could	gloom	opium	jumbo	5	4.430313588850174
 lunge	tares	lingo	bench	lunge	4	4.429565217391304
 space	tares	shuck	abase	space	4	4.428819444444445
+avail	tares	clink	vodka	villa	avail	5	4.429809358752166
+short	tares	shout	crust	short	4	4.429065743944637
+slurp	tares	chirp	swirl	usurp	slurp	5	4.430051813471502
+loyal	tares	clink	foamy	offal	loyal	5	4.431034482758621
