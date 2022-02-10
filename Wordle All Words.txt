@@ -1,2 +1,68 @@
 cigar	tares	broil	micra	cigar	4	4.0
 rebut	tares	rutin	rebut	3	3.5
+sissy	tares	soily	spunk	sissy	4	3.6666666666666665
+humph	tares	colin	pudgy	humph	4	3.75
+awake	tares	plane	azide	above	awake	5	4.0
+blush	tares	soily	flisk	blush	4	4.0
+focal	tares	colin	focal	3	3.857142857142857
+evade	tares	plane	beady	evade	4	3.875
+naval	tares	mincy	balun	naval	4	3.888888888888889
+serve	tares	scudo	serif	serve	4	3.9
+heath	tares	plane	beath	heath	4	3.909090909090909
+dwarf	tares	broil	unarm	dwarf	4	3.9166666666666665
+model	tares	lound	model	3	3.8461538461538463
+karma	tares	comby	harim	karma	4	3.857142857142857
+stink	tares	south	stink	3	3.8
+grade	tares	beard	drake	grade	4	3.8125
+quiet	tares	nould	quiet	3	3.764705882352941
+bench	tares	doily	bench	3	3.7222222222222223
+abate	tares	plane	coate	abate	4	3.736842105263158
+feign	tares	doily	henge	feign	4	3.75
+major	tares	robin	vapor	major	4	3.761904761904762
+death	tares	plane	beath	death	4	3.772727272727273
+fresh	tares	spire	resod	fresh	4	3.782608695652174
+crust	tares	spout	crust	3	3.75
+stool	tares	south	slipt	stool	4	3.76
+colon	tares	colin	humph	colon	4	3.769230769230769
+abase	tares	spale	abuse	abase	4	3.7777777777777777
+marry	tares	comby	larva	mardy	marry	5	3.8214285714285716
+react	tares	peart	react	3	3.793103448275862
+batty	tares	clint	bawty	batty	4	3.8
+pride	tares	geoid	pride	3	3.774193548387097
+floss	tares	soily	flush	floss	4	3.78125
+helix	tares	doily	kelim	helix	4	3.787878787878788
+croak	tares	broil	agora	croak	4	3.7941176470588234
+staff	tares	clapt	stang	swath	staff	5	3.8285714285714287
+paper	tares	glyph	caver	pawer	paper	5	3.861111111111111
+unfed	tares	lound	woken	unfed	4	3.864864864864865
+whelp	tares	doily	neume	whelp	4	3.8684210526315788
+trawl	tares	drain	track	tramp	trawl	5	3.8974358974358974
+outdo	tares	count	pithy	outdo	4	3.9
+adobe	tares	plane	azide	adobe	4	3.902439024390244
+crazy	tares	broil	prang	frack	crazy	5	3.9285714285714284
+sower	tares	soily	sower	3	3.9069767441860463
+repay	tares	beard	renal	recap	repay	5	3.9318181818181817
+digit	tares	count	fight	digit	4	4.0
+crate	tares	peart	react	crate	4	4.0
+cluck	tares	colin	humph	cluck	4	4.0
+spike	tares	spile	scend	spike	4	4.0
+mimic	tares	colin	dumky	mimic	4	4.0
+pound	tares	colin	bundy	nohow	pound	5	4.166666666666667
+maxim	tares	mincy	fauld	maxim	4	4.142857142857143
+linen	tares	lound	money	linen	4	4.125
+unmet	tares	nould	unmet	3	4.0
+flesh	tares	spile	lesbo	flesh	4	4.0
+booby	tares	colin	dumpy	bough	boozy	boofy	booky	0	4.0
+forth	tares	unify	forth	3	3.909090909090909
+first	tares	impot	first	3	3.8333333333333335
+stand	tares	clapt	stang	stand	4	3.8461538461538463
+belly	tares	doily	bilge	belly	4	3.857142857142857
+ivory	tares	coign	loord	ivory	4	3.8666666666666667
+seedy	tares	spile	shend	sedgy	seedy	5	3.9375
+print	tares	fruit	dript	print	4	3.9411764705882355
+yearn	tares	beard	leary	yearn	4	3.9444444444444446
+drain	tares	broil	cigar	drain	4	3.9473684210526314
+bribe	tares	geoid	crine	prize	bribe	5	4.0
+stout	tares	south	stomp	snout	stout	5	4.0476190476190474
+panel	tares	lownd	panel	3	4.0
+crass	tares	scamp	shard	crass	4	4.0
