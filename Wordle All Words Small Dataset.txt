@@ -1234,3 +1234,1082 @@ avail	tares	clink	vodka	villa	avail	5	4.429809358752166
 short	tares	shout	crust	short	4	4.429065743944637
 slurp	tares	chirp	swirl	usurp	slurp	5	4.430051813471502
 loyal	tares	clink	foamy	offal	loyal	5	4.431034482758621
+flirt	tares	fruit	print	flirt	4	4.430292598967298
+pizza	tares	clink	vodka	aphid	pizza	5	4.4312714776632305
+conch	tares	could	mimic	conic	conch	5	4.432246998284734
+tempo	tares	whine	thyme	tempo	4	4.431506849315069
+droop	tares	doing	growl	droll	droop	5	4.432478632478633
+plate	tares	plant	heath	plate	4	4.431740614334471
+bible	tares	lingo	edify	yield	bible	5	4.432708688245315
+plunk	tares	could	fling	fluff	plunk	5	4.433673469387755
+afoul	tares	clink	foamy	offal	offal	afoul	6	4.4363327674023765
+savoy	tares	blond	basic	savoy	4	4.435593220338983
+steep	tares	spilt	steed	steep	4	4.434856175972927
+agile	tares	gland	awake	agile	4	4.434121621621622
+stake	tares	stalk	stead	stake	4	4.433389544688027
+dwell	tares	lingo	weedy	whelp	dwell	5	4.434343434343434
+knave	tares	gland	awake	inane	knave	5	4.435294117647059
+beard	tares	blade	grade	beard	4	4.434563758389261
+arose	tares	phase	arise	arise	arose	5	4.435510887772194
+motif	tares	lunch	doubt	digit	motto	motif	6	4.438127090301004
+smash	tares	chalk	spawn	smash	4	4.437395659432387
+broil	tares	doing	groin	ivory	broil	5	4.4383333333333335
+glare	tares	blade	grade	glare	4	4.437603993344426
+shove	tares	spine	flesh	solve	shove	5	4.438538205980066
+baggy	tares	dingy	gamma	gawky	baggy	5	4.439469320066335
+mammy	tares	dingy	macho	wacky	mammy	5	4.440397350993377
+swamp	tares	chalk	spawn	quasi	swamp	5	4.441322314049587
+along	tares	clink	aback	bland	along	5	4.442244224422442
+rugby	tares	doing	ivory	rugby	4	4.4415156507413505
+wager	tares	pygmy	paler	wager	4	4.440789473684211
+quack	tares	clink	champ	aback	quack	5	4.441707717569787
+squat	tares	slant	staff	squat	4	4.440983606557377
+snaky	tares	chalk	abyss	snaky	4	4.440261865793781
+debit	tares	fluid	exult	debit	4	4.439542483660131
+mange	tares	gulch	badge	badge	mange	5	4.440456769983687
+skate	tares	stalk	stead	skate	4	4.4397394136807815
+ninth	tares	lunch	outdo	ninth	4	4.439024390243903
+joust	tares	pouch	stink	joust	4	4.438311688311688
+tramp	tares	clink	trawl	tramp	4	4.437601296596434
+spurn	tares	chirp	swirl	spurn	4	4.436893203883495
+medal	tares	gland	medal	3	4.434571890145396
+micro	tares	doing	groin	ivory	micro	5	4.435483870967742
+rebel	tares	crude	lever	reply	reply	rebel	6	4.438003220611916
+flank	tares	clink	focal	blank	flank	5	4.438906752411576
+learn	tares	blade	repay	pearl	learn	5	4.439807383627608
+nadir	tares	synod	major	nadir	4	4.439102564102564
+maple	tares	gulch	badge	maple	4	4.4384
+comfy	tares	could	mimic	conic	comfy	5	4.439297124600639
+remit	tares	court	remit	3	4.437001594896332
+gruff	tares	doing	ivory	rugby	gruff	5	4.437898089171974
+ester	tares	swear	store	ester	4	4.4372019077901435
+least	tares	stalk	stead	least	4	4.436507936507937
+mogul	tares	could	humph	mogul	4	4.43581616481775
+fetch	tares	fluid	exult	fetch	4	4.435126582278481
+cause	tares	pulse	masse	cause	4	4.4344391785150075
+oaken	tares	lynch	oaken	3	4.4321766561514195
+aglow	tares	clink	foamy	offal	aglow	5	4.433070866141732
+meaty	tares	plant	heath	heath	meaty	5	4.433962264150943
+gaffe	tares	gulch	badge	gaffe	4	4.433281004709576
+shyly	tares	slink	wispy	shyly	4	4.432601880877743
+racer	tares	pygmy	waver	racer	4	4.431924882629108
+prowl	tares	doing	crump	floor	proxy	prowl	6	4.434375
+thief	tares	model	totem	thief	4	4.433697347893916
+stern	tares	swear	store	stern	4	4.433021806853582
+poesy	tares	spine	spike	poesy	4	4.432348367029549
+rocky	tares	doing	prick	roomy	rocky	5	4.433229813664596
+tweet	tares	whine	tweed	tweed	tweet	5	4.434108527131783
+waist	tares	phony	nasty	waist	4	4.43343653250774
+spire	tares	phone	fresh	spire	4	4.432766615146831
+grope	tares	crude	probe	bribe	grope	5	4.433641975308642
+havoc	tares	dingy	macho	caulk	havoc	5	4.434514637904468
+patsy	tares	phony	nasty	patsy	4	4.4338461538461535
+truly	tares	lunch	troll	truly	4	4.433179723502304
+forty	tares	lying	forth	forty	4	4.432515337423313
+deity	tares	fluid	exult	edict	deity	5	4.433384379785605
+uncle	tares	lingo	bench	kneel	uncle	5	4.434250764525994
+swish	tares	slink	sissy	spicy	swish	5	4.435114503816794
+giver	tares	blind	viper	fixer	giver	5	4.435975609756097
+preen	tares	crude	prone	error	preen	5	4.436834094368341
+bevel	tares	lingo	weedy	belch	bevel	5	4.437689969604863
+lemur	tares	crude	fever	query	lemur	5	4.4385432473444615
+draft	tares	grout	draft	3	4.4363636363636365
+slope	tares	spine	flesh	scope	slope	5	4.437216338880484
+annoy	tares	clink	human	human	annoy	5	4.438066465256798
+lingo	tares	could	fling	gloom	lingo	5	4.4389140271493215
+bleak	tares	gland	awake	alike	bleak	5	4.4397590361445785
+ditty	tares	lunch	doubt	digit	ditty	5	4.440601503759399
+curly	tares	lucky	corny	curly	4	4.43993993993994
+cedar	tares	blade	frame	dream	cedar	5	4.440779610194903
+dirge	tares	decoy	forge	dirge	4	4.440119760479042
+grown	tares	doing	ivory	grown	4	4.439461883408072
+horde	tares	decoy	forge	horde	4	4.438805970149254
+drool	tares	doing	growl	droll	drool	5	4.439642324888227
+shuck	tares	slink	shock	shock	shuck	5	4.440476190476191
+crypt	tares	fruit	print	crypt	4	4.439821693907875
+cumin	tares	could	humph	cumin	4	4.439169139465875
+stock	tares	pouch	stink	stock	4	4.438518518518518
+gravy	tares	blond	crazy	cigar	gravy	5	4.439349112426036
+locus	tares	claim	focus	locus	4	4.438700147710487
+wider	tares	blind	cover	diver	wider	5	4.43952802359882
+breed	tares	crude	fibre	breed	4	4.438880706921944
+quite	tares	fluid	inept	unite	quite	5	4.439705882352941
+chafe	tares	gland	peach	peach	chafe	5	4.440528634361233
+cache	tares	gulch	badge	cache	4	4.439882697947214
+blimp	tares	could	filmy	lying	blimp	5	4.440702781844802
+deign	tares	lingo	feign	feign	deign	5	4.441520467836257
+fiend	tares	lingo	bench	niece	fiend	5	4.442335766423358
+logic	tares	could	humph	logic	4	4.441690962099125
+cheap	tares	gland	awoke	kebab	cheap	5	4.442503639010189
+elide	tares	lingo	helix	helix	elide	5	4.443313953488372
+rigid	tares	doing	ivory	rigid	4	4.44267053701016
+false	tares	pulse	masse	false	4	4.442028985507246
+renal	tares	blade	yearn	relax	renal	5	4.442836468885673
+pence	tares	lingo	epoch	bench	pence	5	4.44364161849711
+rowdy	tares	doing	ivory	rowdy	4	4.443001443001443
+shoot	tares	pouch	stink	ghost	shoot	5	4.443804034582133
+blaze	tares	gland	amble	place	blaze	5	4.444604316546763
+envoy	tares	lingo	enjoy	enjoy	envoy	5	4.445402298850575
+posse	tares	spine	flesh	copse	posse	5	4.446197991391679
+brief	tares	blind	wooer	brief	4	4.445558739255015
+never	tares	crude	lever	renew	never	5	4.446351931330472
+abort	tares	grout	altar	abort	4	4.445714285714286
+mouse	tares	spine	louse	chose	house	mouse	6	4.44793152639087
+mucky	tares	could	nymph	quick	mucky	5	4.448717948717949
+sulky	tares	slink	sissy	skulk	sulky	5	4.44950213371266
+fiery	tares	crude	lever	renew	where	fiery	6	4.451704545454546
+media	tares	gland	abide	adobe	media	5	4.452482269503546
+trunk	tares	lunch	troll	trunk	4	4.451841359773371
+yeast	tares	stalk	yeast	3	4.4497878359264496
+clear	tares	blade	grade	clear	4	4.4491525423728815
+skunk	tares	slink	sissy	skunk	4	4.44851904090268
+scalp	tares	chalk	shady	scald	scalp	5	4.449295774647887
+bitty	tares	lunch	doubt	digit	bitty	5	4.450070323488045
+cider	tares	blind	cover	diver	cider	5	4.450842696629214
+koala	tares	clink	aback	koala	4	4.450210378681627
+duvet	tares	cumin	quiet	duvet	4	4.449579831932773
+segue	tares	spine	flesh	seedy	seedy	segue	6	4.451748251748252
+creme	tares	crude	gripe	creek	creek	creme	6	4.45391061452514
+super	tares	shown	usher	super	4	4.453277545327754
+grill	tares	doing	ivory	grill	4	4.452646239554317
+after	tares	blush	after	3	4.450625869262865
+owner	tares	blind	wooer	goner	owner	5	4.451388888888889
+ember	tares	crude	lever	renew	ember	5	4.452149791955617
+reach	tares	blade	repay	rearm	rearm	reach	6	4.454293628808864
+nobly	tares	could	colon	nobly	4	4.453665283540802
+empty	tares	fluid	jetty	jetty	empty	5	4.454419889502763
+speed	tares	spine	slide	spell	speed	5	4.455172413793103
+gipsy	tares	slink	pushy	disco	gipsy	5	4.4559228650137745
+recur	tares	crude	pride	recur	4	4.455295735900963
+smock	tares	slink	shock	shock	smock	5	4.456043956043956
+dread	tares	blade	frame	dream	dread	5	4.45679012345679
+merge	tares	decoy	verge	nerve	merge	5	4.457534246575342
+burst	tares	quiet	first	burst	4	4.456908344733242
+kappa	tares	dingy	macho	caulk	kappa	5	4.4576502732240435
+amity	tares	aloud	chant	amity	4	4.457025920873124
+shaky	tares	chalk	abyss	shaky	4	4.456403269754769
+hover	tares	blind	mower	hyper	foyer	hover	6	4.458503401360544
+carol	tares	lymph	karma	carol	4	4.457880434782608
+snort	tares	shout	sport	sport	snort	5	4.458616010854817
+synod	tares	slink	snowy	shown	synod	5	4.459349593495935
+faint	tares	lunch	patty	baton	faint	5	4.460081190798376
+haunt	tares	lunch	batty	haunt	4	4.45945945945946
+flour	tares	doing	crump	proxy	flour	5	4.460188933873145
+chair	tares	blond	crazy	cigar	charm	chair	6	4.462264150943396
+detox	tares	fluid	exult	depot	detox	5	4.462987886944818
+shrew	tares	wince	surer	shrew	4	4.462365591397849
+tense	tares	fresh	those	tense	4	4.461744966442953
+plied	tares	vinyl	model	plied	4	4.461126005361931
+quark	tares	blond	crazy	augur	wharf	quark	6	4.463186077643909
+burly	tares	lucky	corny	burly	4	4.462566844919786
+novel	tares	vinyl	model	novel	4	4.461949265687584
+waxen	tares	lynch	oaken	oaken	waxen	5	4.462666666666666
+stoic	tares	pouch	stink	stoic	4	4.462050599201065
+jerky	tares	decoy	perky	ferry	jerky	5	4.462765957446808
+blitz	tares	lunch	outdo	pilot	blitz	5	4.46347941567065
+beefy	tares	lingo	decoy	cheek	beefy	5	4.464190981432361
+lyric	tares	lucky	corny	lyric	4	4.4635761589403975
+hussy	tares	slink	bushy	pushy	hussy	5	4.464285714285714
+towel	tares	model	totem	towel	4	4.463672391017173
+quilt	tares	lunch	bigot	built	quilt	5	4.464379947229552
+below	tares	lingo	bloke	bloke	below	5	4.465085638998683
+bingo	tares	could	lying	whoop	bingo	5	4.46578947368421
+wispy	tares	slink	pushy	disco	wispy	5	4.466491458607096
+brash	tares	shock	crass	brash	4	4.465879265091863
+scone	tares	spine	flesh	scone	4	4.465268676277851
+toast	tares	cigar	toast	3	4.463350785340314
+easel	tares	pulse	masse	easel	4	4.462745098039216
+saucy	tares	blond	basic	savvy	saucy	5	4.4634464751958225
+value	tares	gulch	badge	value	4	4.4628422425032594
+spice	tares	spine	spike	spike	spice	5	4.463541666666667
+honor	tares	doing	ivory	mourn	honor	5	4.464239271781534
+route	tares	court	rebut	route	4	4.463636363636364
+sharp	tares	shock	shard	shard	sharp	5	4.464332036316472
+bawdy	tares	dingy	cabal	badly	bawdy	5	4.465025906735751
+radii	tares	synod	radio	radar	radii	5	4.465717981888745
+skull	tares	slink	sissy	skulk	skulk	skulk	skulk	0	4.465717981888745
+phony	tares	could	lying	whoop	phony	5	4.46640826873385
+issue	tares	spine	spike	issue	4	4.465806451612903
+lager	tares	pygmy	paler	wager	lager	5	4.466494845360825
+swell	tares	spine	flesh	smell	smell	swell	6	4.468468468468468
+urine	tares	crude	pride	urine	4	4.467866323907455
+gassy	tares	blond	basic	savvy	gassy	5	4.468549422336329
+trial	tares	clink	trawl	trial	4	4.467948717948718
+flora	tares	blond	cigar	flora	4	4.467349551856594
+upper	tares	blind	mower	hyper	hyper	upper	6	4.469309462915601
+latch	tares	lunch	batty	latch	4	4.468710089399744
+wight	tares	lunch	motif	pithy	wight	5	4.469387755102041
+brick	tares	doing	prick	prick	brick	5	4.470063694267516
+retry	tares	court	deter	deter	retry	5	4.470737913486005
+holly	tares	could	lymph	loopy	holly	5	4.47141041931385
+decal	tares	gland	medal	delay	decal	5	4.472081218274112
+grass	tares	shock	grasp	brass	grass	5	4.47275031685678
+shack	tares	chalk	abyss	shack	4	4.472151898734177
+dogma	tares	clink	focal	dogma	4	4.471554993678888
+mover	tares	blind	mower	wooer	mover	5	4.472222222222222
+defer	tares	crude	error	elder	defer	5	4.472887767969735
+sober	tares	shown	sower	sober	4	4.472292191435768
+optic	tares	lunch	outdo	optic	4	4.471698113207547
+crier	tares	blind	goner	grief	crier	5	4.472361809045226
+vying	tares	could	nymph	nymph	vying	5	4.473023839397742
+nomad	tares	clink	human	human	nomad	5	4.473684210526316
+flute	tares	fluid	exult	flute	4	4.473091364205256
+hippo	tares	could	lying	whoop	hippo	5	4.47375
+shark	tares	shock	crass	shark	4	4.473158551810237
+drier	tares	blind	wooer	drier	4	4.472568578553616
+obese	tares	spine	flesh	bless	obese	5	4.473225404732254
+bugle	tares	lingo	bench	bugle	4	4.472636815920398
+tawny	tares	lynch	tangy	tawny	4	4.472049689440993
+chalk	tares	clink	focal	chalk	4	4.471464019851116
+feast	tares	stalk	yeast	feast	4	4.47087980173482
+ruddy	tares	doing	ivory	ruddy	4	4.47029702970297
+pedal	tares	gland	medal	delay	pedal	5	4.470951792336217
+scarf	tares	shock	scarf	3	4.469135802469136
+cruel	tares	blind	gruel	gruel	cruel	5	4.469790382244143
+bleat	tares	plant	abate	bleat	4	4.469211822660099
+tidal	tares	blink	today	tidal	4	4.468634686346864
+slush	tares	slink	showy	slump	slush	5	4.469287469287469
+semen	tares	spine	seven	sheen	semen	5	4.469938650306749
+windy	tares	could	doing	dying	windy	5	4.470588235294118
+dusty	tares	pouch	midst	lusty	dusty	5	4.471236230110159
+sally	tares	blond	sadly	palsy	sally	5	4.471882640586797
+igloo	tares	could	fling	gloom	igloo	5	4.472527472527473
+nerdy	tares	decoy	forge	nerdy	4	4.471951219512195
+jewel	tares	lingo	weedy	whelp	jewel	5	4.472594397076736
+shone	tares	spine	flesh	scone	shone	5	4.47323600973236
+whale	tares	gland	leaky	leave	whale	5	4.473876063183475
+hymen	tares	vinyl	model	hymen	4	4.473300970873787
+abuse	tares	shuck	abase	amuse	abuse	5	4.473939393939394
+fugue	tares	lingo	bench	geeky	fugue	5	4.47457627118644
+elbow	tares	lingo	bloke	bloke	elbow	5	4.475211608222491
+crumb	tares	doing	group	wryly	crumb	5	4.475845410628019
+pansy	tares	blond	basic	pansy	4	4.475271411338962
+welsh	tares	spine	flesh	flesh	welsh	5	4.475903614457831
+syrup	tares	bushy	shrub	syrup	4	4.475330926594465
+terse	tares	cigar	terse	3	4.4735576923076925
+suave	tares	shuck	abase	suave	4	4.472989195678271
+gamut	tares	lunch	batty	datum	gamut	5	4.473621103117506
+swung	tares	slink	floss	sound	swung	5	4.474251497005988
+drake	tares	blade	repay	drake	4	4.473684210526316
+freed	tares	crude	fibre	breed	freed	5	4.4743130227001195
+afire	tares	blade	argue	aware	aware	afire	6	4.476133651551312
+shirt	tares	shout	crust	shirt	4	4.475566150178785
+grout	tares	fruit	print	grout	4	4.475
+oddly	tares	could	humph	oddly	4	4.474435196195006
+tithe	tares	whine	tweed	tithe	4	4.473871733966746
+plaid	tares	clink	focal	plaid	4	4.473309608540926
+dummy	tares	could	humph	muddy	dummy	5	4.4739336492890995
+broom	tares	doing	crump	proxy	broom	5	4.474556213017752
+blind	tares	could	pound	blind	4	4.473995271867612
+torch	tares	blush	torch	3	4.472255017709563
+enemy	tares	lingo	yield	needy	enemy	5	4.472877358490566
+again	tares	clink	vodka	ninja	again	5	4.4734982332155475
+tying	tares	pinch	tough	toxin	tying	5	4.474117647058823
+pesky	tares	spine	spike	poesy	pesky	5	4.4747356051703875
+alter	tares	blush	after	alter	4	4.474178403755869
+gazer	tares	pygmy	paper	gazer	4	4.473622508792497
+noble	tares	lingo	flume	noble	4	4.473067915690867
+ethos	tares	rebut	fetus	ethos	4	4.472514619883041
+bride	tares	crude	pride	pride	bride	5	4.473130841121495
+extol	tares	fluid	exult	betel	extol	5	4.473745624270712
+decor	tares	crude	error	decor	4	4.473193473193473
+hobby	tares	could	boozy	booby	hobby	5	4.473806752037253
+beast	tares	stalk	yeast	feast	feast	beast	6	4.475581395348837
+idiom	tares	could	nymph	widow	idiom	5	4.476190476190476
+utter	tares	ought	other	utter	4	4.475638051044084
+these	tares	fresh	those	these	4	4.475086906141367
+sixth	tares	pouch	stink	sixth	4	4.474537037037037
+alarm	tares	blond	cigar	flair	alarm	5	4.47514450867052
+erase	tares	phase	scare	erase	4	4.47459584295612
+elegy	tares	lingo	bench	elegy	4	4.474048442906574
+spunk	tares	slink	sissy	spunk	4	4.473502304147465
+piper	tares	blind	viper	fixer	piper	5	4.474108170310702
+scaly	tares	chalk	shady	scald	scaly	5	4.474712643678161
+scold	tares	slink	wispy	shyly	scold	5	4.475315729047073
+hefty	tares	fluid	exult	hefty	4	4.474770642201835
+chick	tares	could	lying	civic	chick	5	4.475372279495991
+sooty	tares	pouch	moist	boost	sooty	5	4.475972540045767
+canal	tares	dingy	badly	banal	canal	5	4.476571428571429
+whiny	tares	could	nymph	nymph	whiny	5	4.4771689497716896
+slash	tares	chalk	abyss	slash	4	4.476624857468643
+quake	tares	gland	peach	peach	quake	5	4.477220956719818
+joint	tares	lunch	pilot	point	joint	5	4.477815699658703
+swept	tares	spilt	steed	swept	4	4.4772727272727275
+prude	tares	crude	pride	prude	4	4.4767309875141885
+heavy	tares	gland	peach	heavy	4	4.476190476190476
+wield	tares	lingo	edify	yield	wield	5	4.47678369195923
+femme	tares	lingo	decoy	cheek	femme	5	4.47737556561086
+lasso	tares	blond	basic	lasso	4	4.47683615819209
+maize	tares	gulch	waive	waive	maize	5	4.477426636568849
+shale	tares	shuck	slave	shame	shale	5	4.478015783540022
+screw	tares	wince	surer	screw	4	4.4774774774774775
+spree	tares	wince	surer	surer	spree	5	4.478065241844769
+smoky	tares	slink	sissy	smoky	4	4.477528089887641
+whiff	tares	could	nymph	nymph	whiff	5	4.478114478114478
+scent	tares	spilt	chest	sweet	scent	5	4.478699551569507
+glade	tares	gland	awake	glade	4	4.478163493840985
+spent	tares	spilt	steed	spent	4	4.477628635346756
+prism	tares	chirp	swirl	prism	4	4.477094972067039
+stoke	tares	spilt	stove	stoke	4	4.4765625
+riper	tares	blind	viper	fixer	riper	5	4.477146042363434
+orbit	tares	fruit	front	orbit	4	4.476614699331849
+cocoa	tares	clink	champ	champ	cocoa	5	4.477196885428254
+guilt	tares	lunch	bigot	built	guilt	5	4.477777777777778
+humus	tares	claim	focus	humus	4	4.477247502774695
+shush	tares	slink	scoop	showy	shush	5	4.477827050997782
+table	tares	cigar	table	3	4.476190476190476
+smirk	tares	chirp	swirl	swirl	smirk	5	4.476769911504425
+wrong	tares	doing	dowry	prong	wrong	5	4.477348066298343
+noisy	tares	slink	sissy	noisy	4	4.47682119205298
+alert	tares	light	react	alert	4	4.476295479603087
+shiny	tares	slink	showy	spiny	shiny	5	4.476872246696035
+elate	tares	plant	heath	elate	4	4.476347634763476
+resin	tares	phone	fresh	sneer	resin	5	4.476923076923077
+whole	tares	lingo	bloke	bloke	whole	5	4.477497255762898
+hunch	tares	could	nymph	quick	hunch	5	4.478070175438597
+pixel	tares	vinyl	model	pixel	4	4.477546549835706
+polar	tares	blond	cramp	royal	polar	5	4.478118161925602
+hotel	tares	cumin	quiet	hotel	4	4.4775956284153
+sword	tares	chirp	scorn	sworn	sword	5	4.478165938864628
+cleat	tares	plant	abate	bleat	cleat	5	4.478735005452562
+mango	tares	dingy	bayou	manga	mango	5	4.4793028322440085
+rumba	tares	blond	dwarf	rumba	4	4.478781284004352
+puffy	tares	could	nymph	fungi	puppy	puffy	6	4.480434782608696
+filly	tares	could	filmy	lying	filly	5	4.48099891422367
+billy	tares	could	filmy	glyph	billy	5	4.481561822125814
+leash	tares	shuck	abase	leash	4	4.4810400866738895
+clout	tares	lunch	outdo	clout	4	4.48051948051948
+dance	tares	gulch	badge	dance	4	4.48
+ovate	tares	plant	heath	heath	ovate	5	4.480561555075594
+facet	tares	focal	valet	facet	4	4.480043149946063
+chili	tares	could	humph	chill	chill	chill	chill	0	4.480043149946063
+paint	tares	lunch	patty	baton	paint	5	4.480603448275862
+liner	tares	blind	wooer	liner	4	4.480086114101184
+curio	tares	lucky	corny	curio	4	4.479569892473118
+salty	tares	phony	nasty	salty	4	4.47905477980666
+audio	tares	clink	vodka	aphid	audio	5	4.4796137339055795
+snake	tares	shuck	abase	snake	4	4.479099678456592
+fable	tares	gulch	badge	maple	fable	5	4.4796573875803
+cloak	tares	clink	focal	cloak	4	4.479144385026738
+navel	tares	lynch	panel	navel	4	4.478632478632479
+spurt	tares	shout	crust	spurt	4	4.47812166488794
+pesto	tares	spilt	steed	pesto	4	4.477611940298507
+balmy	tares	dingy	macho	wacky	balmy	5	4.4781682641107565
+flash	tares	chalk	abyss	slash	flash	5	4.4787234042553195
+unwed	tares	vinyl	woken	unfed	unwed	5	4.479277364505845
+early	tares	fling	farce	early	4	4.478768577494692
+churn	tares	doing	ivory	churn	4	4.478260869565218
+weedy	tares	lingo	decoy	cheek	weedy	5	4.478813559322034
+stump	tares	pouch	stink	stump	4	4.478306878306879
+lease	tares	shuck	aside	abase	lease	5	4.478858350951374
+witty	tares	lunch	doubt	kitty	kitty	witty	6	4.4804646251319955
+wimpy	tares	could	nymph	nymph	wimpy	5	4.481012658227848
+spoof	tares	slink	scoop	showy	spoof	5	4.481559536354057
+saner	tares	focal	safer	saner	4	4.481052631578947
+blend	tares	lingo	bench	kneel	blend	5	4.481598317560462
+salsa	tares	blond	sadly	palsy	salsa	5	4.482142857142857
+thick	tares	pinch	thumb	thick	4	4.481636935991605
+warty	tares	whelp	party	warty	4	4.481132075471698
+manic	tares	dingy	panic	panic	manic	5	4.481675392670157
+blare	tares	blade	grade	blare	4	4.481171548117155
+squib	tares	slink	blush	sissy	squib	5	4.48171368861024
+spoon	tares	slink	snowy	shown	spoon	5	4.482254697286012
+probe	tares	crude	probe	3	4.480709071949948
+crepe	tares	crude	gripe	creek	crepe	5	4.48125
+knack	tares	clink	focal	knack	4	4.480749219562956
+force	tares	decoy	forge	force	4	4.48024948024948
+debut	tares	fluid	exult	debut	4	4.479750778816199
+order	tares	blind	foyer	ruder	order	5	4.480290456431535
+haste	tares	butch	saute	haste	4	4.47979274611399
+teeth	tares	whine	tweed	teeth	4	4.479296066252588
+agent	tares	plant	heath	agent	4	4.4788004136504656
+widen	tares	vinyl	model	widen	4	4.478305785123967
+icily	tares	could	humph	icily	4	4.47781217750258
+slice	tares	spine	smoke	slide	slide	slice	6	4.479381443298969
+ingot	tares	lunch	pilot	point	ingot	5	4.479917610710608
+clash	tares	chalk	abyss	clash	4	4.479423868312757
+juror	tares	lucky	forgo	furor	juror	5	4.479958890030833
+blood	tares	could	fling	flood	blood	5	4.480492813141684
+abode	tares	gland	abide	adobe	abode	5	4.481025641025641
+throw	tares	blush	torch	throw	4	4.480532786885246
+unity	tares	lunch	digit	mount	unity	5	4.481064483111566
+pivot	tares	lunch	doubt	digit	pivot	5	4.4815950920245395
+slept	tares	spilt	steed	slept	4	4.481103166496425
+troop	tares	lunch	troll	troop	4	4.4806122448979595
+spare	tares	phase	scare	spare	4	4.480122324159021
+sewer	tares	phone	sever	sever	sewer	5	4.480651731160896
+parse	tares	cigar	parse	3	4.479145473041709
+morph	tares	lucky	moron	forgo	morph	5	4.479674796747967
+cacti	tares	lunch	batty	cacti	4	4.479187817258883
+tacky	tares	lynch	tangy	tacky	4	4.47870182555781
+spool	tares	slink	wispy	shyly	spool	5	4.479229989868288
+demon	tares	lingo	enjoy	enjoy	demon	5	4.479757085020243
+moody	tares	could	windy	goody	goody	moody	6	4.481294236602629
+annex	tares	banal	abbey	annex	4	4.480808080808081
+begin	tares	lingo	edify	being	begin	5	4.48133198789102
+fuzzy	tares	could	nymph	unify	buggy	fuzzy	6	4.482862903225806
+patch	tares	lunch	batty	watch	patch	5	4.483383685800605
+water	tares	whelp	cater	water	4	4.482897384305835
+lumpy	tares	could	blimp	pulpy	lumpy	5	4.483417085427136
+admin	tares	clink	vodka	ninja	admin	5	4.483935742971887
+omega	tares	gland	awake	agape	omega	5	4.4844533600802405
+limit	tares	lunch	outdo	lofty	limit	5	4.484969939879759
+tabby	tares	lynch	tabby	3	4.483483483483483
+macho	tares	dingy	macho	3	4.482
+aisle	tares	shuck	aside	abase	aisle	5	4.4825174825174825
+skiff	tares	slink	spicy	skimp	skiff	5	4.483033932135728
+basis	tares	blond	basic	basic	basis	5	4.483549351944167
+plank	tares	clink	focal	blank	blank	plank	6	4.485059760956175
+verge	tares	decoy	verge	3	4.483582089552239
+botch	tares	lunch	width	pitch	botch	5	4.4840954274353875
+crawl	tares	blond	cigar	crawl	4	4.483614697120159
+lousy	tares	slink	sissy	lousy	4	4.483134920634921
+slain	tares	chalk	glass	glass	slain	5	4.4836471754212095
+cubic	tares	could	humph	cumin	cubic	5	4.484158415841584
+raise	tares	cigar	raise	3	4.482690405539071
+wrack	tares	blond	crazy	cigar	wrack	5	4.483201581027668
+guide	tares	lingo	bench	guide	4	4.4827245804540965
+foist	tares	pouch	moist	joist	joist	foist	6	4.48422090729783
+cameo	tares	lynch	panel	cameo	4	4.483743842364532
+under	tares	blind	wooer	under	4	4.483267716535433
+actor	tares	grout	altar	actor	4	4.482792527040314
+revue	tares	crude	fever	query	revue	5	4.4833005893909625
+fraud	tares	blond	crazy	award	fraud	5	4.483807654563297
+harpy	tares	lymph	karma	harpy	4	4.483333333333333
+scoop	tares	slink	scoop	3	4.481880509304603
+climb	tares	could	blink	click	climb	5	4.48238747553816
+refer	tares	crude	lever	renew	renew	refer	6	4.483870967741935
+olden	tares	vinyl	model	olden	4	4.4833984375
+clerk	tares	crude	error	clerk	4	4.482926829268293
+debar	tares	blade	grade	debar	4	4.482456140350878
+tally	tares	lynch	tangy	tally	4	4.4819863680623175
+ethic	tares	fluid	exult	ethic	4	4.4815175097276265
+cairn	tares	synod	major	cairn	4	4.481049562682216
+tulle	tares	whine	tweed	tulle	4	4.480582524271845
+ghoul	tares	could	humph	ghoul	4	4.480116391852571
+hilly	tares	could	filmy	glyph	billy	hilly	6	4.4815891472868215
+crude	tares	crude	2	4.4791868344627295
+apart	tares	grout	altar	apart	4	4.4787234042553195
+scale	tares	shuck	abase	scale	4	4.478260869565218
+older	tares	blind	wooer	older	4	4.477799227799228
+plain	tares	clink	focal	plain	4	4.477338476374157
+sperm	tares	phone	fresh	sperm	4	4.476878612716763
+briny	tares	doing	ivory	brink	briny	5	4.477382098171319
+abbot	tares	aloud	audit	abbot	4	4.476923076923077
+rerun	tares	crude	fever	query	rerun	5	4.477425552353506
+quest	tares	spilt	guest	chest	quest	5	4.477927063339731
+crisp	tares	chirp	swirl	crisp	4	4.477468839884947
+bound	tares	could	humph	found	bound	5	4.477969348659004
+befit	tares	fluid	exult	befit	4	4.477511961722488
+drawn	tares	blond	cigar	drain	drawn	5	4.478011472275335
+suite	tares	spilt	smelt	smite	suite	5	4.478510028653295
+itchy	tares	lunch	outdo	itchy	4	4.478053435114504
+cheer	tares	crude	error	clerk	cheer	5	4.4785510009532885
+bagel	tares	lynch	label	gavel	bagel	5	4.479047619047619
+guess	tares	spine	flesh	bless	obese	guess	6	4.480494766888677
+broad	tares	blond	cigar	broad	4	4.480038022813688
+axiom	tares	clink	focal	axiom	4	4.479582146248813
+chard	tares	blond	crazy	award	chard	5	4.480075901328274
+caput	tares	lunch	batty	caput	4	4.479620853080569
+leant	tares	plant	heath	leant	4	4.479166666666667
+harsh	tares	humph	marsh	harsh	4	4.478713339640492
+curse	tares	poise	nurse	nurse	curse	5	4.479206049149338
+proud	tares	doing	croup	fjord	proud	5	4.479697828139755
+swing	tares	slink	showy	spiny	swing	5	4.480188679245283
+opine	tares	lingo	whelp	opine	4	4.4797360980207355
+taste	tares	cigar	taste	3	4.47834274952919
+lupus	tares	claim	focus	lupus	4	4.477892756349953
+gumbo	tares	could	gloom	opium	gumbo	5	4.478383458646617
+miner	tares	blind	finer	finer	miner	5	4.47887323943662
+green	tares	crude	prone	error	green	5	4.4793621013133205
+chasm	tares	chalk	abyss	chasm	4	4.478912839737582
+lipid	tares	could	pound	blind	lipid	5	4.479400749063671
+topic	tares	pinch	thumb	topic	4	4.478952291861553
+armor	tares	blond	dwarf	ovary	armor	5	4.479439252336449
+brush	tares	chirp	swirl	brush	4	4.4789915966386555
+crane	tares	blade	craze	grave	crave	crane	6	4.480410447761194
+mural	tares	moldy	viral	mural	4	4.479962721342032
+abled	tares	banal	abbey	abled	4	4.47951582867784
+habit	tares	lunch	batty	habit	4	4.47906976744186
+bossy	tares	slink	bushy	pushy	bossy	5	4.479553903345725
+maker	tares	pygmy	paper	ramen	maker	5	4.480037140204271
+dusky	tares	slink	mushy	musky	dusky	5	4.48051948051948
+dizzy	tares	could	doing	dying	dizzy	5	4.481000926784059
+lithe	tares	fluid	exult	lithe	4	4.480555555555555
+brook	tares	doing	crump	proxy	brook	5	4.481036077705828
+jazzy	tares	dingy	macho	wacky	jazzy	5	4.481515711645102
+fifty	tares	lunch	doubt	kitty	kitty	fifty	6	4.482917820867959
+sense	tares	spine	seven	sheen	sense	5	4.483394833948339
+giant	tares	aloud	audit	chant	giant	5	4.483870967741935
+surly	tares	bushy	shrub	surly	4	4.483425414364641
+legal	tares	gland	awake	agile	legal	5	4.483900643974241
+fatal	tares	lunch	batty	waltz	fatal	5	4.484375
+flunk	tares	could	fling	fluff	flunk	5	4.484848484848484
+began	tares	gland	evade	began	4	4.48440366972477
+prune	tares	crude	pride	prune	4	4.483959670027498
+small	tares	chalk	shall	psalm	small	5	4.4844322344322345
+slant	tares	slant	2	4.482159194876487
+scoff	tares	slink	scoop	showy	scoff	5	4.482632541133455
+torus	tares	cigar	torus	3	4.481278538812785
+ninny	tares	could	nymph	nymph	ninny	5	4.481751824817518
+covey	tares	vinyl	model	covey	4	4.481312670920693
+viper	tares	blind	viper	3	4.479963570127505
+taken	tares	cigar	taken	3	4.478616924476797
+moral	tares	moldy	viral	moral	4	4.4781818181818185
+vogue	tares	lingo	flume	gouge	vogue	5	4.478655767484105
+owing	tares	could	lying	whoop	owing	5	4.479128856624319
+token	tares	model	totem	token	4	4.478694469628286
+entry	tares	court	rebut	entry	4	4.478260869565218
+booth	tares	lunch	outdo	booth	4	4.477828054298643
+voter	tares	ought	other	voter	4	4.477396021699819
+chide	tares	lingo	flume	equip	chide	5	4.477868112014454
+elfin	tares	lingo	bench	elfin	4	4.477436823104693
+ebony	tares	lingo	enjoy	enjoy	ebony	5	4.477908025247971
+neigh	tares	lingo	feign	feign	neigh	5	4.478378378378379
+minim	tares	could	nymph	nymph	minim	5	4.478847884788479
+melon	tares	lingo	flume	noble	melon	5	4.47931654676259
+kneed	tares	lingo	yield	needy	kneed	5	4.479784366576819
+decoy	tares	lingo	epoch	epoch	decoy	5	4.480251346499102
+voila	tares	clink	focal	voila	4	4.479820627802691
+ankle	tares	gland	awake	penal	ankle	5	4.480286738351254
+arrow	tares	blond	dwarf	ovary	arrow	5	4.480752014324082
+mushy	tares	slink	bushy	pushy	pushy	mushy	6	4.482110912343471
+tribe	tares	pinch	tribe	3	4.4807864164432525
+cease	tares	shuck	abase	cease	4	4.480357142857143
+eager	tares	cigar	range	eager	4	4.47992863514719
+birth	tares	lying	burnt	birth	4	4.479500891265597
+graph	tares	blond	crazy	cigar	graph	5	4.479964381121994
+odder	tares	blind	foyer	ruder	odder	5	4.480427046263345
+terra	tares	cigar	terra	3	4.479111111111111
+weird	tares	crude	error	elder	weird	5	4.479573712255773
+tried	tares	biome	tiger	tried	4	4.479148181011535
+clack	tares	clink	focal	cloak	clack	5	4.4796099290780145
+color	tares	doing	prick	roomy	color	5	4.480070859167405
+rough	tares	doing	ivory	rough	4	4.479646017699115
+weigh	tares	lingo	bench	weigh	4	4.47922192749779
+uncut	tares	lunch	outdo	count	uncut	5	4.479681978798586
+ladle	tares	gulch	badge	maple	ladle	5	4.480141218005295
+strip	tares	quiet	first	strip	4	4.479717813051146
+craft	tares	grout	draft	draft	craft	5	4.4801762114537445
+minus	tares	claim	focus	minus	4	4.479753521126761
+dicey	tares	vinyl	model	dicey	4	4.4793315743183815
+titan	tares	blink	today	titan	4	4.478910369068541
+lucid	tares	could	humph	lucid	4	4.478489903424056
+vicar	tares	blond	crazy	cigar	vicar	5	4.478947368421053
+dress	tares	phone	sever	cress	cress	dress	6	4.480280455740578
+ditch	tares	lunch	width	pitch	ditch	5	4.480735551663748
+gypsy	tares	slink	bushy	pushy	gypsy	5	4.481189851268591
+pasta	tares	phony	nasty	pasta	4	4.480769230769231
+taffy	tares	lynch	tabby	taffy	4	4.4803493449781655
+flame	tares	gland	amble	place	flame	5	4.480802792321117
+swoop	tares	slink	scoop	showy	swoop	5	4.481255448997384
+aloof	tares	clink	foamy	allow	aloof	5	4.4817073170731705
+sight	tares	pouch	stink	shift	sight	5	4.482158398607485
+broke	tares	crude	probe	bribe	broke	5	4.482608695652174
+teary	tares	evade	trace	teary	4	4.4821894005212854
+chart	tares	grout	altar	apart	chart	5	4.482638888888889
+sixty	tares	pouch	stink	stink	sixty	5	4.4830875975715525
+wordy	tares	lucky	world	horny	wordy	5	4.483535528596187
+sheer	tares	phone	fresh	sheer	4	4.4831168831168835
+leper	tares	crude	lever	renew	leper	5	4.48356401384083
+nosey	tares	pride	spiel	nosey	4	4.48314606741573
+bulge	tares	lingo	bench	elegy	bulge	5	4.4835924006908465
+savor	tares	cigar	savor	3	4.482312338222606
+clamp	tares	clink	focal	clamp	4	4.481896551724138
+funky	tares	could	nymph	funky	4	4.481481481481482
+foamy	tares	clink	focal	dogma	foamy	5	4.481927710843373
+toxic	tares	pinch	thumb	toxic	4	4.481513327601032
+brand	tares	blond	cigar	brand	4	4.481099656357388
+plumb	tares	could	fling	bluff	plumb	5	4.481545064377682
+dingy	tares	could	doing	dying	dingy	5	4.481989708404803
+butte	tares	fluid	depot	butte	4	4.481576692373608
+drill	tares	doing	ivory	drill	4	4.4811643835616435
+tripe	tares	pinch	trove	tripe	4	4.480752780153978
+bicep	tares	vinyl	model	bicep	4	4.48034188034188
+tenor	tares	pinch	trove	tenor	4	4.479931682322801
+krill	tares	doing	prick	prick	krill	5	4.48037542662116
+worse	tares	poise	worse	3	4.479113384484228
+drama	tares	blond	dwarf	dwarf	drama	5	4.4795570698466785
+hyena	tares	gland	awake	hyena	4	4.479148936170213
+think	tares	pinch	tough	think	4	4.47874149659864
+ratio	tares	cigar	ratio	3	4.477485131690739
+cobra	tares	blond	cigar	arbor	cobra	5	4.477928692699491
+basil	tares	blond	basic	basil	4	4.477523324851569
+scrum	tares	bushy	shrub	scrum	4	4.477118644067796
+bused	tares	pride	spiel	bused	4	4.476714648602879
+phone	tares	lingo	enjoy	ozone	ozone	phone	6	4.478003384094754
+court	tares	fruit	front	blurt	court	5	4.4784446322907865
+camel	tares	lynch	panel	camel	4	4.47804054054054
+proof	tares	doing	crump	floor	proxy	proof	6	4.479324894514768
+heard	tares	blade	grade	heard	4	4.4789207419898815
+angel	tares	banal	abbey	angel	4	4.478517270429655
+petal	tares	plant	heath	petal	4	4.478114478114478
+pouty	tares	lunch	outdo	doubt	pouty	5	4.478553406223718
+throb	tares	blush	torch	throb	4	4.478151260504202
+maybe	tares	gulch	waive	waive	maybe	5	4.478589420654912
+fetal	tares	plant	metal	delta	fetal	5	4.479026845637584
+sprig	tares	bushy	shrub	sprig	4	4.4786253143336126
+spine	tares	spine	2	4.476549413735343
+shout	tares	pouch	stink	shout	4	4.476150627615063
+cadet	tares	focal	valet	cadet	4	4.475752508361204
+macro	tares	synod	major	macro	4	4.4753550543024225
+dodgy	tares	could	windy	howdy	dodgy	5	4.475792988313857
+satyr	tares	cigar	satyr	3	4.474562135112594
+rarer	tares	pygmy	waver	racer	racer	rarer	6	4.475833333333333
+binge	tares	lingo	bench	hinge	binge	5	4.476269775187344
+trend	tares	pinch	trove	trend	4	4.475873544093178
+nutty	tares	lunch	outdo	nutty	4	4.475477971737323
+leapt	tares	plant	heath	leapt	4	4.475083056478406
+amiss	tares	chalk	amiss	3	4.473858921161826
+split	tares	pouch	stink	spilt	split	5	4.474295190713101
+myrrh	tares	lucky	corny	myrrh	4	4.473902236951118
+width	tares	lunch	outdo	booth	width	5	4.474337748344371
+sonar	tares	shock	solar	solar	sonar	5	4.474772539288669
+tower	tares	biome	tiger	tower	4	4.474380165289256
+baron	tares	lymph	cargo	cargo	baron	5	4.474814203137902
+fever	tares	crude	lever	renew	never	fever	6	4.476072607260726
+waver	tares	pygmy	waver	3	4.474855729596043
+spark	tares	shock	crass	spark	4	4.474464579901153
+belie	tares	lingo	helix	helix	belie	5	4.474897119341564
+sloop	tares	slink	showy	slump	sloop	5	4.475328947368421
+expel	tares	lingo	weedy	plume	flume	expel	6	4.47658175842235
+smote	tares	spilt	stove	steed	smote	5	4.477011494252873
+baler	tares	pygmy	waver	baker	baker	baler	6	4.478260869565218
+above	tares	gland	awoke	awake	above	5	4.478688524590164
+north	tares	lying	forth	north	4	4.478296478296478
+wafer	tares	pygmy	waver	baker	wafer	5	4.4787234042553195
+scant	tares	slant	staff	scant	4	4.478331970564186
+frill	tares	doing	prick	prick	frill	5	4.478758169934641
+awash	tares	chalk	abyss	awash	4	4.478367346938776
+snack	tares	chalk	spawn	smack	snack	5	4.47879282218597
+scowl	tares	slink	wispy	shyly	scowl	5	4.47921760391198
+frail	tares	blond	cigar	crawl	frail	5	4.479641693811075
+drift	tares	fruit	print	drift	4	4.4792514239218875
+limbo	tares	could	fling	gloom	limbo	5	4.479674796747967
+fence	tares	lingo	epoch	bench	dunce	fence	6	4.480909829406986
+motel	tares	cumin	quiet	motel	4	4.48051948051948
+ounce	tares	lingo	bench	venom	ounce	5	4.480940794809408
+wreak	tares	blade	creak	freak	freak	wreak	6	4.482171799027553
+revel	tares	crude	lever	renew	revel	5	4.482591093117409
+talon	tares	lynch	tangy	talon	4	4.482200647249191
+prior	tares	doing	rhino	primo	prior	5	4.482619240097009
+knelt	tares	fluid	exult	betel	knelt	5	4.483037156704362
+cello	tares	lingo	bench	cello	4	4.482647296206618
+flake	tares	gland	amble	place	place	flake	6	4.483870967741935
+debug	tares	lingo	bench	geeky	debug	5	4.484286865431104
+anode	tares	gland	awake	anode	4	4.4838969404186795
+crime	tares	crude	pride	crime	4	4.483507642799678
+salve	tares	pulse	masse	salve	4	4.483118971061093
+scout	tares	pouch	stink	scout	4	4.482730923694779
+imbue	tares	lingo	flume	equip	imbue	5	4.48314606741573
+pinky	tares	could	nymph	nymph	pinky	5	4.483560545308741
+stave	tares	stalk	stage	stave	4	4.483173076923077
+vague	tares	gulch	badge	vague	4	4.482786228983186
+chock	tares	could	humph	chock	4	4.4824
+fight	tares	lunch	motif	pithy	fight	5	4.482813749000799
+video	tares	vinyl	model	video	4	4.482428115015974
+stone	tares	spilt	stove	stoke	stoke	stone	6	4.483639265762171
+teach	tares	cigar	theta	teach	4	4.483253588516747
+cleft	tares	fluid	exult	cleft	4	4.482868525896414
+frost	tares	shout	crust	frost	4	4.482484076433121
+prawn	tares	blond	cigar	angry	prawn	5	4.482895783611774
+booty	tares	lunch	doubt	digit	booty	5	4.483306836248013
+twist	tares	cigar	tipsy	twist	4	4.482922954725973
+apnea	tares	banal	abbey	apnea	4	4.482539682539683
+stiff	tares	pouch	stink	still	still	stiff	6	4.483743061062649
+plaza	tares	clink	foamy	allow	plaza	5	4.484152139461172
+ledge	tares	lingo	bench	ledge	4	4.483768804433888
+tweak	tares	cigar	theta	tweak	4	4.483386075949367
+board	tares	blond	cigar	board	4	4.48300395256917
+grant	tares	grout	draft	grant	4	4.4826224328594
+medic	tares	lingo	flume	equip	medic	5	4.483030781373323
+bacon	tares	dingy	badly	naval	bacon	5	4.483438485804417
+cable	tares	gulch	badge	cable	4	4.483057525610717
+brawl	tares	blond	cigar	brawl	4	4.482677165354331
+slunk	tares	slink	sissy	slunk	4	4.482297403619198
+raspy	tares	cigar	savor	raspy	4	4.4819182389937104
+forum	tares	lucky	corny	forum	4	4.481539670070699
+drone	tares	crude	prove	drove	drone	5	4.481946624803768
+women	tares	vinyl	woken	unfed	women	5	4.482352941176471
+mucus	tares	claim	focus	mucus	4	4.481974921630094
+boast	tares	slant	coast	coast	boast	5	4.482380579483164
+toddy	tares	pinch	thumb	toddy	4	4.482003129890454
+coven	tares	vinyl	woven	woven	coven	5	4.482408131352619
+tumor	tares	lunch	tumor	3	4.48125
+truer	tares	biome	tiger	truer	4	4.48087431693989
+wrath	tares	grout	altar	wrath	4	4.480499219968799
+stall	tares	slant	stalk	stalk	stall	5	4.480904130943102
+steam	tares	stalk	stead	stead	steam	5	4.481308411214953
+axial	tares	clink	focal	voila	axial	5	4.481712062256809
+purer	tares	cigar	puree	puree	puree	puree	puree	0	4.481712062256809
+daily	tares	dingy	naval	daily	4	4.481337480559875
+trail	tares	clink	trawl	trail	4	4.480963480963481
+niche	tares	lingo	bench	niece	niche	5	4.4813664596273295
+mealy	tares	gland	leaky	leave	mealy	5	4.4817688130333595
+juice	tares	lingo	flume	equip	juice	5	4.482170542635659
+nylon	tares	could	fling	gloom	nylon	5	4.482571649883811
+plump	tares	could	fling	bluff	plumb	plump	6	4.483746130030959
+merry	tares	decoy	perky	ferry	merry	5	4.484145398298531
+flail	tares	clink	focal	plaid	flail	5	4.484544049459042
+papal	tares	dingy	macho	caulk	kappa	papal	6	4.485714285714286
+wheat	tares	plant	cheat	cheat	wheat	5	4.486111111111111
+berry	tares	decoy	perky	ferry	merry	merry	berry	0	4.486111111111111
+cower	tares	blind	mower	hyper	power	cower	6	4.48727833461835
+erect	tares	court	rebut	erect	4	4.486902927580894
+brute	tares	court	rebut	brute	4	4.486528098537336
+leggy	tares	lingo	bench	leggy	4	4.486153846153846
+snipe	tares	spine	spike	snipe	4	4.485780169100692
+sinew	tares	pride	spiel	sinew	4	4.485407066052227
+skier	tares	shown	usher	super	skier	5	4.485801995395242
+penny	tares	lingo	epoch	penny	4	4.485429447852761
+jumpy	tares	could	nymph	humph	jumpy	5	4.485823754789272
+rally	tares	synod	hairy	hairy	rally	5	4.486217457886677
+umbra	tares	blond	dwarf	rumba	umbra	5	4.486610558530987
+scary	tares	shock	scarf	scarf	scary	5	4.4870030581039755
+modem	tares	vinyl	model	modem	4	4.4866310160427805
+gross	tares	chirp	dross	dross	gross	5	4.487022900763359
+avian	tares	clink	focal	avian	4	4.486651411136537
+greed	tares	crude	fibre	breed	greed	5	4.4870426829268295
+satin	tares	phony	nasty	satin	4	4.486671744097487
+tonic	tares	pinch	thumb	tunic	tonic	5	4.487062404870624
+parka	tares	lymph	karma	parka	4	4.486692015209125
+sniff	tares	slink	floss	scion	sniff	5	4.487082066869301
+livid	tares	could	pound	blind	livid	5	4.4874715261958995
+stark	tares	stork	start	stark	4	4.487101669195751
+trump	tares	lunch	troll	trout	trump	5	4.487490523123578
+giddy	tares	could	doing	dying	giddy	5	4.487878787878788
+reuse	tares	phone	sever	sever	reuse	5	4.488266464799395
+taboo	tares	lynch	tangy	taboo	4	4.487897125567322
+avoid	tares	clink	vodka	aphid	avoid	5	4.488284202569917
+quote	tares	fluid	depot	butte	quote	5	4.488670694864048
+devil	tares	lingo	helix	helix	devil	5	4.489056603773585
+liken	tares	vinyl	model	liken	4	4.48868778280543
+gloss	tares	slink	spoof	blush	gloss	5	4.489073097211755
+gayer	tares	pygmy	paper	gayer	4	4.488704819277109
+beret	tares	rebut	egret	beret	4	4.4883370955605715
+noise	tares	spine	spike	noise	4	4.48796992481203
+gland	tares	clink	aback	bland	gland	5	4.488354620586025
+dealt	tares	plant	heath	exalt	dealt	5	4.488738738738738
+sling	tares	slink	sissy	sling	4	4.488372093023256
+rumor	tares	doing	crump	humor	humor	rumor	6	4.489505247376312
+opera	tares	blade	creak	repay	opera	5	4.489887640449438
+thigh	tares	pinch	thumb	thigh	4	4.4895209580838324
+tonga	tares	blink	today	tonga	4	4.489154824233358
+flare	tares	blade	grade	glare	flare	5	4.489536621823618
+wound	tares	could	humph	found	bound	bound	wound	0	4.489536621823618
+white	tares	fluid	depth	piety	white	5	4.48991784914115
+bulky	tares	could	blimp	bulky	4	4.48955223880597
+etude	tares	fluid	exult	etude	4	4.489187173750932
+horse	tares	poise	worse	worse	horse	5	4.48956780923994
+circa	tares	moldy	viral	circa	4	4.489203276247208
+paddy	tares	dingy	cabal	badly	paddy	5	4.489583333333333
+inbox	tares	could	lying	whoop	inbox	5	4.48996282527881
+fizzy	tares	could	nymph	jiffy	jiffy	fizzy	6	4.491084695393759
+grain	tares	blond	cigar	angry	grain	5	4.491462509279881
+exert	tares	court	greet	inert	exert	5	4.491839762611276
+surge	tares	poise	serve	surge	4	4.491475166790215
+gleam	tares	gland	awake	gleam	4	4.4911111111111115
+belle	tares	lingo	weedy	belch	belch	belle	6	4.492227979274611
+salvo	tares	blond	basic	lasso	salvo	5	4.492603550295858
+crush	tares	chirp	swirl	crush	4	4.492239467849224
+fruit	tares	fruit	2	4.4903988183161
+sappy	tares	blond	basic	savvy	sappy	5	4.490774907749078
+taker	tares	humph	tamer	taker	4	4.490412979351032
+tract	tares	clink	trawl	tract	4	4.490051584377303
+ovine	tares	lingo	whelp	opine	ovine	5	4.490427098674521
+spiky	tares	slink	spicy	skimp	spiky	5	4.490802060338484
+frank	tares	blond	cramp	crank	frank	5	4.491176470588235
+reedy	tares	crude	pride	reedy	4	4.490815576781778
+filth	tares	lunch	outdo	filth	4	4.490455212922173
+spasm	tares	chalk	spawn	quasi	spasm	5	4.490829053558327
+heave	tares	gland	peach	heavy	heavy	heave	6	4.491935483870968
+mambo	tares	dingy	macho	caulk	mambo	5	4.492307692307692
+right	tares	fruit	print	right	4	4.491947291361639
+clank	tares	clink	focal	clank	4	4.491587417702999
+trust	tares	rebut	truss	truss	truss	truss	truss	0	4.491587417702999
+lumen	tares	vinyl	model	olden	lumen	5	4.491959064327485
+borne	tares	decoy	forge	forge	borne	5	4.492330168005844
+spook	tares	slink	shock	shock	spook	5	4.492700729927007
+sauce	tares	pulse	masse	sauce	4	4.49234135667396
+amber	tares	cigar	aider	amber	4	4.49198250728863
+lathe	tares	blush	eaten	lathe	4	4.491624180626365
+carat	tares	whelp	party	carat	4	4.491266375545852
+corer	tares	cigar	puree	corer	4	4.490909090909091
+dirty	tares	lying	forth	dirty	4	4.490552325581396
+slyly	tares	slink	showy	slump	slyly	5	4.490922294843863
+affix	tares	clink	vodka	aphid	affix	5	4.4912917271407835
+alloy	tares	clink	foamy	allow	alloy	5	4.491660623640319
+taint	tares	lynch	tacit	taunt	taint	5	4.492028985507246
+sheep	tares	spine	flesh	sleep	sheep	5	4.492396813902969
+kinky	tares	could	nymph	nymph	kinky	5	4.492764109985528
+wooly	tares	could	colon	nobly	wooly	5	4.493130874909617
+mauve	tares	gulch	badge	mauve	4	4.492774566473988
+flung	tares	could	fling	fluff	flung	5	4.493140794223827
+yacht	tares	lunch	batty	yacht	4	4.492784992784993
+fried	tares	blind	hyper	fried	4	4.492429704397981
+quail	tares	clink	vodka	villa	quail	5	4.492795389048991
+brunt	tares	fruit	blurt	grunt	brunt	5	4.4931605471562275
+grimy	tares	doing	ivory	grill	grimy	5	4.493525179856115
+curvy	tares	lucky	curvy	3	4.492451473759885
+cagey	tares	lynch	panel	cagey	4	4.492097701149425
+rinse	tares	phone	fresh	rinse	4	4.491744436468054
+deuce	tares	lingo	decoy	cheek	deuce	5	4.492109038737446
+state	tares	stalk	stage	stave	stave	state	6	4.493189964157706
+grasp	tares	shock	grasp	3	4.492120343839542
+milky	tares	could	filmy	lying	milky	5	4.492483894058697
+bison	tares	slink	sissy	bison	4	4.4921316165951355
+graft	tares	grout	draft	grant	graft	5	4.4924946390278775
+sandy	tares	blond	basic	sandy	4	4.492142857142857
+baste	tares	butch	saute	baste	4	4.491791577444682
+flask	tares	chalk	abyss	flask	4	4.491440798858773
+hedge	tares	lingo	bench	wedge	hedge	5	4.491803278688525
+girly	tares	lucky	corny	girly	4	4.4914529914529915
+swash	tares	chalk	spawn	smash	swash	5	4.491814946619217
+boney	tares	vinyl	hymen	money	boney	5	4.492176386913229
+coupe	tares	lingo	epoch	epoch	coupe	5	4.492537313432836
+endow	tares	lingo	enjoy	enjoy	endow	5	4.4928977272727275
+abhor	tares	blond	cigar	arbor	abhor	5	4.493257629524486
+welch	tares	lingo	weedy	whelp	welch	5	4.493617021276596
+blade	tares	gland	awake	blade	4	4.49326718639263
+tight	tares	pinch	thumb	tight	4	4.492917847025495
+geese	tares	spine	flesh	flesh	geese	5	4.493276716206653
+miser	tares	shown	sower	miser	4	4.492927864214993
+mirth	tares	lying	burnt	birth	mirth	5	4.493286219081272
+cloud	tares	could	humph	cloud	4	4.492937853107344
+cabal	tares	dingy	macho	caulk	caulk	cabal	6	4.494001411432604
+leech	tares	lingo	bench	level	leech	5	4.494358251057828
+close	tares	spine	louse	goose	close	5	4.494714587737843
+tenth	tares	whine	tweed	tenth	4	4.494366197183099
+pecan	tares	gland	enema	enema	pecan	5	4.494722026741731
+droit	tares	fruit	front	orbit	droit	5	4.495077355836849
+grail	tares	blond	cigar	crawl	grail	5	4.4954321855235415
+clone	tares	lingo	flume	noble	clone	5	4.495786516853933
+guise	tares	spine	spike	guise	4	4.495438596491228
+ralph	tares	synod	labor	rabbi	ralph	5	4.495792426367461
+tango	tares	lynch	tangy	tango	4	4.495444989488437
+biddy	tares	could	doing	dying	biddy	5	4.495798319327731
+smith	tares	pouch	stink	sixth	smith	5	4.496151154653604
+mower	tares	blind	mower	3	4.4951048951048955
+payee	tares	lynch	panel	payee	4	4.49475890985325
+serif	tares	poise	serve	serif	4	4.494413407821229
+drape	tares	blade	repay	drake	drape	5	4.49476622470342
+fifth	tares	lunch	outdo	booth	fifth	5	4.495118549511855
+spank	tares	chalk	abyss	spank	4	4.494773519163763
+glaze	tares	gland	awake	glaze	4	4.494428969359332
+allot	tares	aloud	audit	allot	4	4.494084899095338
+truck	tares	lunch	troll	truck	4	4.493741307371349
+kayak	tares	dingy	badly	bayou	kayak	5	4.494093120222376
+virus	tares	cigar	virus	3	4.493055555555555
+testy	tares	fresh	those	testy	4	4.492713393476753
+tepee	tares	whine	thyme	tempo	tepee	5	4.493065187239944
+fully	tares	could	blimp	gully	gully	fully	6	4.494109494109494
+zonal	tares	clink	focal	annul	zonal	5	4.4944598337950135
+metro	tares	court	rebut	metro	4	4.4941176470588236
+curry	tares	lucky	curvy	curvy	curry	5	4.494467496542185
+grand	tares	blond	cigar	grand	4	4.494125777470629
+banjo	tares	dingy	badly	banal	banjo	5	4.494475138121547
+axion	tares	clink	focal	avian	axion	5	4.494824016563147
+bezel	tares	lingo	weedy	belch	bevel	bevel	bezel	0	4.494824016563147
+occur	tares	doing	crump	proxy	occur	5	4.495172413793103
+chain	tares	clink	focal	chain	4	4.494831150930393
+nasal	tares	blond	basic	nasal	4	4.494490358126722
+gooey	tares	vinyl	model	gooey	4	4.494150034411562
+filer	tares	blind	fixer	liver	filer	5	4.4944979367262725
+brace	tares	blade	creak	brake	brace	5	4.494845360824742
+allay	tares	clink	foamy	allow	allay	5	4.4951923076923075
+pubic	tares	could	nymph	quick	pubic	5	4.495538778311599
+raven	tares	pygmy	waver	baker	raven	5	4.495884773662551
+plead	tares	gland	awake	plead	4	4.495544893762851
+gnash	tares	chalk	spawn	smash	gnash	5	4.495890410958904
+flaky	tares	clink	focal	flaky	4	4.4955509924709105
+munch	tares	could	nymph	quick	munch	5	4.495896032831737
+dully	tares	could	humph	dully	4	4.495557074504443
+eking	tares	lingo	edify	being	eking	5	4.495901639344262
+thing	tares	pinch	tough	think	thing	5	4.496245733788396
+slink	tares	slink	2	4.494542974079127
+hurry	tares	lucky	forgo	furry	hurry	5	4.494887525562373
+theft	tares	whine	theme	theme	theft	5	4.495231607629428
+shorn	tares	chirp	swirl	shorn	4	4.494894486044928
+pygmy	tares	could	nymph	nymph	pygmy	5	4.495238095238095
+ranch	tares	synod	major	ranch	4	4.494901427600272
+wring	tares	doing	dowry	bring	wring	5	4.495244565217392
+lemon	tares	lingo	bench	lemon	4	4.494908350305499
+shore	tares	phone	fresh	shore	4	4.4945725915875165
+mamma	tares	dingy	macho	caulk	mamma	5	4.494915254237288
+froze	tares	crude	probe	prove	grove	froze	6	4.495934959349594
+newer	tares	crude	lever	renew	fewer	newer	6	4.496953283683141
+style	tares	spilt	stove	stole	style	5	4.497293640054127
+moose	tares	spine	louse	goose	goose	moose	6	4.4983096686950645
+antic	tares	aloud	chant	amity	antic	5	4.498648648648649
+drown	tares	doing	ivory	drown	4	4.4983119513842
+vegan	tares	gland	evade	began	vegan	5	4.498650472334683
+chess	tares	spine	flesh	flesh	chess	5	4.498988536749831
+guppy	tares	could	nymph	fungi	puppy	guppy	6	4.5
+union	tares	could	gloom	opium	union	5	4.5003367003367005
+lever	tares	crude	lever	3	4.499327052489906
+lorry	tares	lucky	corny	lorry	4	4.498991257565568
+image	tares	gland	awake	image	4	4.498655913978495
+cabby	tares	dingy	macho	wacky	cabby	5	4.498992612491605
+druid	tares	doing	ivory	druid	4	4.498657718120805
+exact	tares	plant	heath	exact	4	4.49832327297116
+truth	tares	lunch	troll	truth	4	4.4979892761394105
+dopey	tares	vinyl	model	gooey	dopey	5	4.498325519089082
+spear	tares	phase	scare	spear	4	4.497991967871486
+cried	tares	blind	hyper	fried	fried	cried	6	4.498996655518394
+chime	tares	lingo	flume	equip	chime	5	4.499331550802139
+crony	tares	doing	ivory	crony	4	4.498997995991984
+stunk	tares	pouch	stink	study	stunk	5	4.499332443257677
+timid	tares	pinch	thumb	timid	4	4.498999332888593
+batch	tares	lunch	batty	watch	batch	5	4.499333333333333
+gauge	tares	gulch	gauze	gauze	gauge	5	4.4996668887408395
+rotor	tares	fruit	motor	motor	rotor	5	4.5
+crack	tares	blond	crazy	cramp	cramp	crack	6	4.500998003992016
+curve	tares	decoy	forge	curve	4	4.500664893617022
+latte	tares	blush	eaten	latte	4	4.500332225913621
+witch	tares	lunch	width	pitch	witch	5	4.50066401062417
+bunch	tares	could	nymph	quick	bunch	5	4.5009953550099535
+repel	tares	crude	lever	reply	reply	repel	6	4.501989389920424
+anvil	tares	clink	focal	final	anvil	5	4.502319416832339
+soapy	tares	chalk	spawn	quasi	soapy	5	4.502649006622517
+meter	tares	court	deter	deter	meter	5	4.502978160158835
+broth	tares	fruit	print	broth	4	4.502645502645502
+madly	tares	dingy	cabal	badly	madly	5	4.502974223397224
+dried	tares	blind	wooer	drier	drier	drier	drier	0	4.502974223397224
+scene	tares	spine	spike	scene	4	4.502642007926024
+known	tares	could	lying	whoop	known	5	4.5029702970297025
+magma	tares	dingy	maxim	gamma	magma	5	4.503298153034301
+roost	tares	shout	crust	roost	4	4.5029663810151614
+woman	tares	clink	human	human	woman	5	4.503293807641634
+thong	tares	pinch	thumb	thong	4	4.502962475312706
+punch	tares	could	nymph	quick	punch	5	4.503289473684211
+pasty	tares	phony	nasty	patsy	pasty	5	4.503616042077581
+downy	tares	could	windy	howdy	downy	5	4.503942181340341
+knead	tares	gland	awake	knead	4	4.503611293499672
+whirl	tares	doing	prick	prick	whirl	5	4.503937007874016
+rapid	tares	synod	labor	rabid	rapid	5	4.5042622950819675
+clang	tares	clink	focal	clang	4	4.503931847968545
+anger	tares	cigar	aider	anger	4	4.503601833660773
+drive	tares	crude	prove	drove	drive	5	4.5039267015706805
+goofy	tares	could	boozy	foggy	foggy	goofy	6	4.5049051667756705
+email	tares	gland	leaky	leave	whale	email	6	4.5058823529411764
+music	tares	slink	pushy	disco	music	5	4.50620509470934
+stuff	tares	pouch	stink	study	study	stuff	6	4.507180156657963
+bleep	tares	lingo	weedy	whelp	quell	bleep	6	4.508153946510111
+rider	tares	blind	cover	diver	rider	5	4.508474576271187
+mecca	tares	gland	awoke	kebab	cheap	mecca	6	4.509446254071661
+folio	tares	could	lymph	loopy	folio	5	4.509765625
+setup	tares	spilt	steed	steep	setup	5	4.510084580351334
+verso	tares	poise	serve	verso	4	4.5097529258777636
+quash	tares	chalk	spawn	smash	quash	5	4.510071474983755
+fauna	tares	dingy	badly	naval	fauna	5	4.51038961038961
+gummy	tares	could	nymph	humph	gummy	5	4.510707332900714
+happy	tares	dingy	macho	wacky	happy	5	4.511024643320363
+newly	tares	lingo	bench	kneel	newly	5	4.511341542449773
+fussy	tares	slink	bushy	pushy	fussy	5	4.511658031088083
+relic	tares	crude	pride	relic	4	4.511326860841424
+guava	tares	clink	focal	dogma	guava	5	4.511642949547219
+ratty	tares	cigar	ratio	ratty	4	4.51131221719457
+fudge	tares	lingo	bench	fudge	4	4.510981912144703
+femur	tares	crude	fever	query	femur	5	4.511297611362169
+chirp	tares	doing	prick	prick	chirp	5	4.5116129032258065
+forte	tares	rebut	egret	forte	4	4.5112830431979365
+alibi	tares	clink	focal	alibi	4	4.510953608247423
+whine	tares	lingo	feign	ennui	whine	5	4.5112685125563425
+petty	tares	fluid	jetty	jetty	petty	5	4.511583011583012
+golly	tares	could	lymph	folly	jolly	jolly	golly	0	4.511583011583012
+plait	tares	aloud	audit	plant	plait	5	4.511897106109325
+fleck	tares	lingo	weedy	whelp	quell	fleck	6	4.512853470437018
+felon	tares	lingo	flume	noble	felon	5	4.513166345536288
+gourd	tares	doing	ivory	gourd	4	4.512836970474968
+brown	tares	doing	frock	frown	brown	5	4.513149454778704
+thrum	tares	blush	torch	thrum	4	4.512820512820513
+ficus	tares	claim	focus	ficus	4	4.51249199231262
+stash	tares	slant	shaft	staff	swath	stash	6	4.513444302176697
+decry	tares	crude	error	decor	decry	5	4.513755598208573
+wiser	tares	shown	sower	wiser	4	4.513427109974424
+junta	tares	aloud	audit	junta	4	4.513099041533546
+visor	tares	chirp	scour	risky	visor	5	4.513409961685824
+daunt	tares	lunch	jaunt	gaunt	daunt	5	4.513720485003191
+scree	tares	wince	surer	scree	4	4.513392857142857
+impel	tares	vinyl	model	impel	4	4.513065646908859
+await	tares	aloud	chant	amity	await	5	4.513375796178344
+press	tares	phone	fresh	press	4	4.513049013367282
+whose	tares	spine	louse	chose	chose	whose	6	4.513994910941475
+turbo	tares	blush	torch	turbo	4	4.513668150031786
+stoop	tares	pouch	moist	stomp	stoop	5	4.513977128335451
+speak	tares	shuck	phase	sneak	speak	5	4.514285714285714
+mangy	tares	dingy	naval	mangy	4	4.5139593908629445
+eying	tares	lingo	edify	being	eying	5	4.5142675967026
+inlet	tares	cumin	quiet	inlet	4	4.513941698352345
+crone	tares	crude	pride	crime	crone	5	4.514249525015833
+pulse	tares	spine	flesh	copse	pulse	5	4.514556962025316
+mossy	tares	slink	bushy	pushy	mossy	5	4.514864010120177
+staid	tares	slant	shaft	stack	stamp	stamp	staid	0	4.514864010120177
+hence	tares	lingo	epoch	bench	hence	5	4.515170670037927
+pinch	tares	could	wimpy	mimic	pinch	5	4.515476942514214
+teddy	tares	whine	thyme	tempo	teddy	5	4.515782828282828
+sully	tares	slink	wispy	shyly	sully	5	4.51608832807571
+snore	tares	phone	fresh	snore	4	4.515762925598991
+ripen	tares	blind	finer	finer	ripen	5	4.5160680529300565
+snowy	tares	slink	snowy	3	4.515113350125945
+attic	tares	aloud	chant	amity	attic	5	4.515418502202643
+going	tares	could	boozy	booby	going	5	4.515723270440252
+leach	tares	gland	leaky	leave	leave	leach	6	4.516656191074795
+mouth	tares	lunch	moult	youth	mouth	5	4.516959798994975
+hound	tares	could	humph	pound	hound	5	4.517263025737602
+clump	tares	could	pound	cluck	clump	5	4.517565872020075
+tonal	tares	blink	today	tonal	4	4.517241379310345
+bigot	tares	lunch	doubt	digit	bigot	5	4.517543859649122
+peril	tares	decoy	verge	nerve	peril	5	4.5178459611772075
+piece	tares	lingo	flume	pique	piece	5	4.518147684605757
+blame	tares	gland	amble	place	blame	5	4.5184490306441525
+haute	tares	blush	eaten	haute	4	4.518125
+spied	tares	pride	spiel	spied	4	4.517801374141162
+undid	tares	could	humph	muddy	undid	5	4.5181023720349565
+intro	tares	fruit	print	intro	4	4.517779164067374
+basal	tares	blond	basic	basil	basal	5	4.518079800498753
+shine	tares	spine	flesh	swine	shine	5	4.518380062305296
+gecko	tares	lingo	bench	gecko	4	4.518057285180573
+rodeo	tares	blind	foyer	ruder	rodeo	5	4.518357187305538
+guard	tares	blond	crazy	award	guard	5	4.518656716417911
+steer	tares	swear	store	steer	4	4.5183343691734
+loamy	tares	clink	foamy	offal	loamy	5	4.5186335403726705
+scamp	tares	chalk	abyss	scamp	4	4.518311607697083
+scram	tares	marry	spray	scram	4	4.517990074441688
+manly	tares	dingy	caulk	canny	manly	5	4.51828890266584
+hello	tares	lingo	bench	cello	hello	5	4.518587360594796
+vaunt	tares	lunch	jaunt	gaunt	daunt	daunt	vaunt	0	4.518587360594796
+organ	tares	blond	cigar	organ	4	4.518266253869969
+feral	tares	cigar	feral	3	4.517326732673268
+knock	tares	could	humph	knock	4	4.517006802721088
+extra	tares	light	react	crate	extra	5	4.517305315203956
+condo	tares	could	humph	condo	4	4.516985793699814
+adapt	tares	aloud	audit	admit	adapt	5	4.517283950617284
+willy	tares	could	filmy	glyph	billy	billy	willy	0	4.517283950617284
+polka	tares	clink	aback	koala	polka	5	4.5175817396668725
+rayon	tares	synod	major	rayon	4	4.517262638717632
+skirt	tares	shout	crust	skirt	4	4.5169439309919905
+faith	tares	lunch	batty	faith	4	4.516625615763547
+torso	tares	cigar	torso	3	4.515692307692308
+match	tares	lunch	batty	watch	patch	patch	match	0	4.515692307692308
+mercy	tares	decoy	forge	mercy	4	4.515375153751537
+tepid	tares	whine	tweed	tepid	4	4.515058389674247
+sleek	tares	spine	flesh	seedy	sleek	5	4.5153562653562656
+riser	tares	shown	sower	miser	riser	5	4.515653775322283
+twixt	tares	pinch	thumb	twixt	4	4.515337423312883
+peace	tares	gland	peach	peach	peace	5	4.515634580012263
+flush	tares	slink	spoof	blush	flush	5	4.515931372549019
+catty	tares	lunch	batty	cacti	catty	5	4.516227801592161
+login	tares	could	lymph	loopy	login	5	4.516523867809058
+eject	tares	fluid	jetty	jetty	eject	5	4.516819571865444
+roger	tares	blind	mower	rover	rover	roger	6	4.517726161369193
+rival	tares	blond	cigar	crawl	rival	5	4.518020769700672
+untie	tares	fluid	chute	cutie	untie	5	4.518315018315018
+refit	tares	court	remit	greet	refit	5	4.518608907870653
+aorta	tares	cigar	aorta	3	4.517682926829268
+adult	tares	aloud	audit	adult	4	4.517367458866545
+judge	tares	lingo	bench	fudge	fudge	judge	6	4.518270401948842
+rower	tares	blind	mower	wooer	rower	5	4.518563603164942
+artsy	tares	stork	start	artsy	4	4.518248175182482
+rural	tares	blond	cigar	crawl	rural	5	4.5185410334346505
+shave	tares	shuck	slave	shame	shave	5	4.518833535844472
