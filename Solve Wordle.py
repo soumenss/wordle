@@ -3,7 +3,7 @@
 from math import log as lg
 from tqdm import tqdm
 
-doneUpto = 'repay'
+doneUpto = 'stove'
 
 
 # returns the smaller list which are the potential answer according to green, yel, blue
