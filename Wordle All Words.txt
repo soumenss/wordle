@@ -462,3 +462,81 @@ gully	tares	colin	gulph	fully	gully	5	4.116959064327485
 inter	tares	notum	other	inter	4	4.116279069767442
 whoop	tares	colin	bumph	whoop	4	4.115606936416185
 taunt	tares	kylin	tango	taunt	4	4.114942528735632
+leery	tares	geoid	refly	renew	leery	5	4.12
+class	tares	pilch	shady	class	4	4.119318181818182
+theme	tares	whine	tilde	theme	4	4.11864406779661
+lofty	tares	count	mythi	lofty	4	4.117977528089888
+tibia	tares	linky	tibia	3	4.111731843575419
+booze	tares	doily	bunce	booze	4	4.111111111111111
+alpha	tares	colin	flamy	pupal	alpha	5	4.116022099447513
+thyme	tares	whine	tilde	thyme	4	4.115384615384615
+eclat	tares	plane	metal	delta	eclat	5	4.120218579234972
+doubt	tares	count	pilot	moult	doubt	5	4.125
+parer	tares	coped	paren	pareu	parev	parer	6	4.135135135135135
+chute	tares	flint	metho	chute	4	4.134408602150538
+stick	tares	south	stink	stink	stick	5	4.13903743315508
+trice	tares	drink	trope	trice	4	4.138297872340425
+alike	tares	plane	awake	alike	4	4.137566137566138
+sooth	tares	south	swift	sooth	4	4.136842105263158
+recap	tares	beard	renal	recap	4	4.136125654450262
+saint	tares	silty	satin	saint	4	4.135416666666667
+liege	tares	doily	kelim	liege	4	4.134715025906735
+glory	tares	coign	updry	growl	glory	5	4.139175257731959
+grate	tares	peart	react	grate	4	4.138461538461539
+admit	tares	aloin	admit	3	4.13265306122449
+brisk	tares	soupy	brisk	3	4.126903553299492
+soggy	tares	soily	spunk	soggy	4	4.126262626262626
+usurp	tares	soupy	swirl	usurp	4	4.125628140703518
+scald	tares	pilch	shady	class	scald	5	4.13
+scorn	tares	soupy	swirl	scorn	4	4.129353233830845
+leave	tares	plane	leavy	leave	4	4.128712871287129
+twine	tares	whine	tweed	twine	4	4.12807881773399
+sting	tares	south	stink	sting	4	4.127450980392157
+bough	tares	colin	dumpy	bough	4	4.126829268292683
+marsh	tares	synod	marsh	3	4.121359223300971
+sloth	tares	south	stink	sloth	4	4.120772946859903
+dandy	tares	mincy	dawah	dandy	4	4.1201923076923075
+vigor	tares	coign	floor	vigor	4	4.119617224880383
+howdy	tares	colin	dumpy	howdy	4	4.119047619047619
+enjoy	tares	doily	enjoy	3	4.113744075829384
+valid	tares	mincy	palki	valid	4	4.113207547169812
+ionic	tares	colin	humph	ionic	4	4.112676056338028
+equal	tares	plane	belah	equal	4	4.11214953271028
+unset	tares	poind	islet	unset	4	4.111627906976744
+floor	tares	coign	frump	fjord	fjord	floor	6	4.12037037037037
+catch	tares	clint	batty	catch	4	4.119815668202765
+spade	tares	spale	sneak	spade	4	4.1192660550458715
+stein	tares	spite	smelt	stein	4	4.1187214611872145
+exist	tares	spite	heist	heist	exist	5	4.122727272727273
+quirk	tares	coign	dryly	quirk	4	4.122171945701357
+denim	tares	doily	exine	denim	4	4.121621621621622
+grove	tares	geoid	prove	grove	4	4.121076233183857
+spiel	tares	solid	spiel	3	4.116071428571429
+mummy	tares	colin	pudgy	fubby	huzzy	mummy	6	4.124444444444444
+fault	tares	clint	fagot	fault	4	4.123893805309734
+foggy	tares	colin	dumpy	bough	foggy	5	4.127753303964758
+flout	tares	count	ought	ought	flout	5	4.131578947368421
+carry	tares	comby	varan	cardy	carry	5	4.135371179039302
+sneak	tares	spale	sedan	sneak	4	4.1347826086956525
+libel	tares	lound	money	libel	4	4.134199134199134
+waltz	tares	clint	fatly	waltz	4	4.133620689655173
+aptly	tares	aloin	audit	aptly	4	4.133047210300429
+piney	tares	lound	mizen	piney	4	4.132478632478633
+inept	tares	flint	depot	inept	4	4.131914893617021
+aloud	tares	colin	aloud	3	4.127118644067797
+photo	tares	count	pithy	photo	4	4.1265822784810124
+dream	tares	beard	arame	dream	4	4.126050420168068
+stale	tares	stalk	stead	stale	4	4.125523012552302
+vomit	tares	count	outdo	vomit	4	4.125
+ombre	tares	geoid	prune	ombre	4	4.124481327800829
+fanny	tares	mincy	dawah	fanny	4	4.12396694214876
+unite	tares	flint	exult	unite	4	4.1234567901234565
+snarl	tares	scamp	snarf	snarl	4	4.122950819672131
+baker	tares	glyph	daker	ramen	baker	5	4.126530612244898
+there	tares	drink	therm	there	4	4.126016260162602
+glyph	tares	colin	bumpy	fluff	glyph	5	4.129554655870446
+pooch	tares	colin	jumpy	vouch	pooch	5	4.133064516129032
+hippy	tares	colin	dumpy	piggy	hippy	5	4.136546184738956
+spell	tares	spile	desks	spell	4	4.136
+folly	tares	colin	dumpy	folky	folly	5	4.139442231075697
+louse	tares	spile	mouse	louse	4	4.138888888888889
