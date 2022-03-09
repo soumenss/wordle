@@ -9,7 +9,7 @@ import json
 
 # import all the five lettered words and keeping them in a list 'words', total number is 'totalWordCount'
 
-with open('5_words_LaTa.txt') as f: lines = f.readlines()
+with open('5_words_La.txt') as f: lines = f.readlines()
 words = [word[:-1] for word in lines]
 
 totalWordCount = len(words)
@@ -117,7 +117,7 @@ dicty = {}
 for word in tqdm(words):
     tempValue = expectedValue(word, words)
     dicty[word] = tempValue
-    df=open('greenYelBlack_ExpectedValue_sigmoid_prob.txt','a')
+    df=open('greenYelBlack_ExpectedValue_La_sigmoid_prob.txt','a')
     df.write(word)
     df.write('\t')
     df.write(str(tempValue))
@@ -130,10 +130,10 @@ sortedDict = dict(sorted(dicty.items(), key=lambda x: x[1], reverse= True))
 
 # printed in a json file 
 
-with open("greenYelBlack_ExpectedValue_sigmoid_prob.json", "w") as outfile:
+with open("greenYelBlack_ExpectedValue_La_sigmoid_prob.json", "w") as outfile:
     json.dump(sortedDict, outfile)
 
 # printed in a csv file
 
 sorted_df = pd.DataFrame.from_dict(sortedDict.items())
-sorted_df.to_csv('greenYelBlack_ExpectedValue_sigmoid_prob.csv')
+sorted_df.to_csv('greenYelBlack_ExpectedValue_La_sigmoid_prob.csv')
